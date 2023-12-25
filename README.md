@@ -7,7 +7,7 @@ Web developer
 I am a novice web developer. My path to it began in 2022, then I tried to learn Python, but then I got hooked on web development. Since September 2023, I have been studying web development at the Yandex Practicum courses.
 
 * 🌍  I'm based in Moscow, Russia
-* ✉️  You can contact me at [webdev@pzenova.ru](mailto:webdev@pzenova.ru)
+* ✉️  You can contact me at [e-mail](mailto:webdev@pzenova.ru) or [Telegram](mailto:https://t.me/springpolly)
 * 🧠  I'm good at| JavaScript | React | HTML & CSS | GIT
 * 🤝  I'm open to collaborating on any interesting projects in the field of web development
 
