@@ -2,7 +2,7 @@ Hello! My name is Polina Zenova.
 =====================================================================================================================================
 
 ### 👩‍💻 About me: 
-I am a novice web developer. My path began in 2022, when I tried to learn Python, but then I got hooked up on web development. So, since September 2023 I have been studying it at the Yandex Practicum courses. I am open to all communications regarding my current work.
+I am a novice web developer. My path began in 2022, when I tried to learn Python, but then I got hooked up on web development. So, since September 2023 I have been studying it at the Yandex Practicum courses. I am open to all communications regarding my work.
 
 ---
 
