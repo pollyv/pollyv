@@ -8,7 +8,7 @@ I am a novice web developer. My path to it began in 2022, then I tried to learn 
 
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [webdev@pzenova.ru](mailto:webdev@pzenova.ru)
-* 🧠  I'm learning | JavaScript | React | HTML & CSS | GIT
+* 🧠  I'm good at| JavaScript | React | HTML & CSS | GIT
 * 🤝  I'm open to collaborating on any interesting projects in the field of web development
 
 ### Skills
@@ -20,6 +20,3 @@ I am a novice web developer. My path to it began in 2022, then I tried to learn 
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/pollyzenova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/зщдднм" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/springpollyyy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<a href="https://github.com/зщдднм" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=зщдднм&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
