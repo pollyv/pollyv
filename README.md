@@ -28,9 +28,6 @@ I am a novice web developer. My path began in 2022, when I tried to learn Python
 [<img src='https://github.com/pollyv/pollyv/blob/main/icons/github.png' alt='github' height='40'>](https://github.com/pollyv)
 [<img src='https://github.com/pollyv/pollyv/blob/main/icons/codepen.png' alt='codepen' height='40'>](https://codepen.io/pollyzenova)
 [<img src='https://github.com/pollyv/pollyv/blob/main/icons/telegram.png' alt='telegram' height='40'>](https://t.me/springpolly)
-<a href="mailto:webdev@pzenova.ru" target="_blank">
-      <img src="https://github.com/pollyv/pollyv/blob/main/icons/emai.png" width="40" height="40" alt="mail"/>
-    </a>
 [<img src='https://github.com/pollyv/pollyv/blob/main/icons/vk.png' alt='vk' height='40'>](https://vk.com/pollyzenova)
 [<img src='https://github.com/pollyv/pollyv/blob/main/icons/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/springpollyyy/)
 
