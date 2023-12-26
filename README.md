@@ -26,12 +26,12 @@ I am a novice web developer. My path began in 2022, when I tried to learn Python
 ---
 
 ### 🤝 Connect with me  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pollyv)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pollyzenova)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/springpolly)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](mailto:webdev@pzenova.ru)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/pollyzenova)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/springpollyyy/)
+[<img src='https://github.com/pollyv/pollyv/blob/main/icons/github.png' alt='github' height='40'>](https://github.com/pollyv)
+[<img src='https://github.com/pollyv/pollyv/blob/main/icons/codepen.png' alt='codepen' height='40'>](https://codepen.io/pollyzenova)
+[<img src='https://github.com/pollyv/pollyv/blob/main/icons/telegram.png' alt='telegram' height='40'>](https://t.me/springpolly)
+[<img src='https://github.com/pollyv/pollyv/blob/main/icons/emai.png' alt='yandex' height='40'>](mailto:webdev@pzenova.ru)
+[<img src='https://github.com/pollyv/pollyv/blob/main/icons/vk.png' alt='vk' height='40'>](https://vk.com/pollyzenova)
+[<img src='https://github.com/pollyv/pollyv/blob/main/icons/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/springpollyyy/)
 
 ---
 <!-- ### 💻 Пройденные курсы:
