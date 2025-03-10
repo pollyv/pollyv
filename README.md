@@ -2,7 +2,7 @@ Hello! My name is Polina Zenova.
 =====================================================================================================================================
 
 ### 👩‍💻 About me: 
-I am a novice web developer. My path began in 2022, when I tried to learn Python, but then I got hooked up on web development. So, since September 2023 I have been studying it at the Yandex Practicum courses. I am open to all communications regarding my work.
+I am a junior frontend developer with experience in web development, specializing in Vue.js. My programming journey began in 2022 when I was learning Python, but I quickly became interested in web development. Since September 2023, I have been honing my skills at Yandex Practicum, working on various projects and gaining practical experience in real applications. Now I work as a junior frontend developer in a company that deals with video analytics. I actively develop and support commercial projects using Vue.js, Nuxt.js and modern frontend technologies. I am always open to new challenges and collaborations in the field of frontend development.
 
 ---
 
@@ -14,11 +14,15 @@ I am a novice web developer. My path began in 2022, when I tried to learn Python
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="Nuxt.js" height="50" /></a>  
+<a href="https://vuetifyjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="Vuetify" height="50" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
+
 
 ---
 
